@@ -5,6 +5,7 @@ tig
 htop
 ack-grep
 meld
+synapse
 
 # Chrome
 # http://www.google.com/chrome/
