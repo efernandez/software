@@ -10,6 +10,12 @@ synapse
 # Chrome
 # http://www.google.com/chrome/
 
+# Skype
+# http://www.skype.com/en/download-skype/skype-for-linux/downloading/?type=ubuntu64
+
+# Dropbox
+# https://www.dropbox.com/install?os=lnx
+
 # Terminal
 terminator
 nautilus-open-terminal
