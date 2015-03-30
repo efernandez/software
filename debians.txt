@@ -1,0 +1,18 @@
+# git related
+tig
+
+# System tools
+htop
+ack-grep
+meld
+
+# Chrome
+# http://www.google.com/chrome/
+
+# Terminal
+terminator
+nautilus-open-terminal
+
+# Programming
+# qt-creator
+
