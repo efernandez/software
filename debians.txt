@@ -22,4 +22,5 @@ nautilus-open-terminal
 
 # Programming
 # qt-creator
+# http://www.qt.io/download-open-source/#section-6
 
