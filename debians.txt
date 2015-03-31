@@ -5,6 +5,7 @@ tig
 htop
 ack-grep
 meld
+xclip
 synapse
 
 # Chrome
