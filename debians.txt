@@ -8,6 +8,7 @@ meld
 xclip
 synapse
 hardinfo
+valgrind
 
 # Chrome
 # http://www.google.com/chrome/
