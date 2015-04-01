@@ -2,6 +2,8 @@
 tig
 
 # System tools
+awesome
+awesome-extra
 aptitude
 vim
 htop
