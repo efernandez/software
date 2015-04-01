@@ -27,3 +27,5 @@ valgrind
 terminator
 nautilus-open-terminal
 
+# CAD related
+meshlab
