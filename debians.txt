@@ -17,6 +17,9 @@ valgrind
 # Screencast
 gtk-recordmydesktop
 
+# Video
+vlc
+
 # Python
 python-pip
 ipython
