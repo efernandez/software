@@ -6,9 +6,7 @@ else
     ROS_DISTRO=hydro
 fi
 
-UBUNTU_DISTRO=`lsb_release -a 2>/dev/null | grep -i codename | awk '{print $2}'`
-
-sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu ${UBUNTU_DISTRO} main" > /etc/apt/sources.list.d/ros-latest.list'
+sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -cs) main" > /etc/apt/sources.list.d/ros-latest.list'
 
 wget https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -O - | sudo apt-key add -
 
