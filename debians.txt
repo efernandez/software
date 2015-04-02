@@ -13,6 +13,7 @@ xclip
 synapse
 hardinfo
 valgrind
+pip
 
 # Power management
 xfce4-power-manager
