@@ -14,6 +14,9 @@ synapse
 hardinfo
 valgrind
 
+# Power management
+xfce4-power-manager
+
 # VPN
 openvpn
 network-manager-openvpn
