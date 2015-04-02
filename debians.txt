@@ -13,7 +13,10 @@ xclip
 synapse
 hardinfo
 valgrind
-pip
+
+# Python
+python-pip
+ipython
 
 # Power management
 xfce4-power-manager
