@@ -21,7 +21,6 @@ gtk-recordmydesktop
 vlc
 
 # Python
-python-pip
 ipython
 
 # Power management
