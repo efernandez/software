@@ -49,3 +49,8 @@ meshlab
 # Coding
 # http://astyle.sourceforge.net
 astyle
+
+# ROS tools
+python-wstool
+python-catkin-tools
+
