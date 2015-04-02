@@ -14,6 +14,9 @@ wget https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -O - | sudo 
 
 sudo apt-get update
 
+sudo apt-get install ros-$ROS_DISTRO-desktop-full
+sudo apt-get install ros-$ROS_DISTRO-roslint
+
 sudo rosdep init
 rosdep update
 
