@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+import subprocess
+import sys
+
+inputname = sys.argv[1]
+
+P1 = subprocess.Popen(['/usr/bin/gsf','cat',inputname,'PreviewPNG'],stdout=subprocess.PIPE)
+P2 = subprocess.Popen(["/usr/bin/display"],stdin=P1.stdout)
+P2.wait()

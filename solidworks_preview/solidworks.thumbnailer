@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=/usr/local/bin/solidworks-thumbnailer
+Exec=/usr/local/bin/solidworks-thumbnailer %i %o %s
+MimeType=application/x-solidworks;

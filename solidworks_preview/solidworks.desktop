@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/usr/local/bin/solidworks-viewer %f
+MimeType=application/x-solidworks;
+Name=Solidworks Preview
+Name[en]=Solidworks Preview
+GenericName=Solidworks Preview
+Comment=Solidworks Preview
+Icon=solidworks
+Categories=Education
+StartupNotify=false
