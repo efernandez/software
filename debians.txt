@@ -17,6 +17,10 @@ valgrind
 # Screencast
 gtk-recordmydesktop
 
+# Image
+imagemagick
+gimp
+
 # Video
 vlc
 
