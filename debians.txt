@@ -25,6 +25,9 @@ libgsf-bin
 # Video
 vlc
 
+# Audio
+moc
+
 # Python
 ipython
 
