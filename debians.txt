@@ -13,6 +13,8 @@ xclip
 synapse
 hardinfo
 valgrind
+dconf
+dconf-tools
 
 # Screencast
 gtk-recordmydesktop
