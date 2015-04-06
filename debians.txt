@@ -29,6 +29,7 @@ vlc
 
 # Audio
 moc
+playonlinux
 
 # Python
 ipython
