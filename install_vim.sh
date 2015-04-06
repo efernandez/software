@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# This is needed by:
+# - clipboard copy&paste: http://vim.wikia.com/wiki/Accessing_the_system_clipboard
+# - YCM (YouCompleteMe) plugin
+
 cd ~/software
 
 hg clone https://vim.googlecode.com/hg/ vim
