@@ -15,6 +15,7 @@ hardinfo
 valgrind
 dconf
 dconf-tools
+libclang1-3.4
 
 # Screencast
 gtk-recordmydesktop
