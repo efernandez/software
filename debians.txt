@@ -39,6 +39,7 @@ playonlinux
 
 # Python
 ipython
+python-notebook
 
 # Power management
 xfce4-power-manager
