@@ -17,6 +17,7 @@ dconf
 dconf-tools
 libclang1-3.4
 gconf-editor
+byobu
 
 # wmname for Matlab in awesome
 suckless-tools
