@@ -63,6 +63,7 @@ nautilus-open-terminal
 
 # CAD related
 meshlab
+openscad
 
 # Coding
 # http://astyle.sourceforge.net
