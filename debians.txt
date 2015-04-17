@@ -19,6 +19,9 @@ libclang1-3.4
 gconf-editor
 byobu
 
+# Fortran
+gfortran
+
 # wmname for Matlab in awesome
 suckless-tools
 
