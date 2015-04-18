@@ -18,6 +18,7 @@ dconf-tools
 libclang1-3.4
 gconf-editor
 byobu
+cmake-curses-gui
 
 # Fortran
 gfortran
