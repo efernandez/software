@@ -19,6 +19,7 @@ libclang1-3.4
 gconf-editor
 byobu
 cmake-curses-gui
+tree
 
 # Fortran
 gfortran
