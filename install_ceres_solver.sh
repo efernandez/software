@@ -26,7 +26,7 @@ git clone https://ceres-solver.googlesource.com/ceres-solver
 cd ceres-solver
 mkdir build
 cd build
-cmake .. -DEIGEN_INCLUDE_DIR=/usr/local/include/eigen3 -DEIGEN_SPARSE=ON
+cmake .. -DEIGEN_SPARSE=ON
 make -j4
 make test
 sudo make install
