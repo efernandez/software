@@ -78,4 +78,5 @@ python-wstool
 python-catkin-tools
 python-bloom
 python-rosdistro
+python-catkin-lint
 
