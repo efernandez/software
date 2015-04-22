@@ -22,6 +22,9 @@ cmake-curses-gui
 tree
 autoconf
 
+# Java
+ant
+
 # Fortran
 gfortran
 
