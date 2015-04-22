@@ -20,6 +20,7 @@ gconf-editor
 byobu
 cmake-curses-gui
 tree
+autoconf
 
 # Fortran
 gfortran
