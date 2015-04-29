@@ -4,6 +4,7 @@ tig
 # System tools
 awesome
 awesome-extra
+tmux
 aptitude
 vim
 htop
