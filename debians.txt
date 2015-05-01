@@ -22,6 +22,7 @@ byobu
 cmake-curses-gui
 tree
 autoconf
+secure-delete
 
 # Java
 ant
