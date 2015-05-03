@@ -47,6 +47,7 @@ vlc
 # Audio
 moc
 playonlinux
+audacity
 
 # Python
 ipython
