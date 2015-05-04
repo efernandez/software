@@ -24,6 +24,7 @@ tree
 autoconf
 secure-delete
 gnome-applets
+acpitool
 
 # Java
 ant
