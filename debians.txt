@@ -23,6 +23,7 @@ cmake-curses-gui
 tree
 autoconf
 secure-delete
+gnome-applets
 
 # Java
 ant
