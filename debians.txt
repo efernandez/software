@@ -5,6 +5,7 @@ tig
 awesome
 awesome-extra
 tmux
+screen
 aptitude
 vim
 htop
