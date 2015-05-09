@@ -27,6 +27,7 @@ autoconf
 secure-delete
 gnome-applets
 acpitool
+gpointing-device-settings
 
 # Java
 ant
