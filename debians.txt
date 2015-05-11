@@ -29,6 +29,7 @@ gnome-applets
 acpitool
 gpointing-device-settings
 nitrogen
+zsh
 
 # Java
 ant
