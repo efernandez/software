@@ -95,3 +95,7 @@ python-bloom
 python-rosdistro
 python-catkin-lint
 
+# Simulation
+# http://www.blensor.org
+blender
+
