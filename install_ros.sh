@@ -14,6 +14,7 @@ sudo apt-get update
 
 sudo apt-get install ros-$ROS_DISTRO-desktop-full
 sudo apt-get install ros-$ROS_DISTRO-roslint
+sudo apt-get install ros-$ROS_DISTRO-rqt*
 
 sudo rosdep init
 rosdep update
