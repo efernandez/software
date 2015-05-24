@@ -76,6 +76,9 @@ network-manager-openvpn
 # Dropbox
 # https://www.dropbox.com/install?os=lnx
 
+# Downloads
+amule
+
 # Terminal
 terminator
 nautilus-open-terminal
