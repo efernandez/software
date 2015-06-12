@@ -13,7 +13,8 @@ libboost-all-dev
 libflann-dev
 
 # VTK (for PCL):
-libvtk6-dev
+# This conflicts with ros-indigo-desktop-full!
+# libvtk6-dev
 
 # Google Perf Tools (for OmniMapper):
 libgoogle-perftools-dev
