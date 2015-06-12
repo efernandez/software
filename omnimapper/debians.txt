@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# OmniMapper Installation & Dependencies for Ubuntu 14.04:
+# https://github.com/CognitiveRobotics/omnimapper/wiki/Installation-&-Dependencies
+
+# cmake:
+cmake
+
+# Boost:
+libboost-all-dev
+
+# FLANN (for PCL):
+libflann-dev
+
+# VTK (for PCL):
+libvtk6-dev
+
+# Google Perf Tools (for OmniMapper):
+libgoogle-perftools-dev
+
+# Intel Threading Building Blocks (TBB) (for GTSAM and OmniMapper):
+libtbb-dev
+
+# GSL (for OmniMapper CSM plugin):
+libgsl0-dev
+
