@@ -30,6 +30,9 @@ acpitool
 gpointing-device-settings
 nitrogen
 zsh
+# Manage gnome keyring
+# https://wiki.archlinux.org/index.php/GNOME_Keyring
+seahorse
 
 # Java
 ant
