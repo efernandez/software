@@ -34,6 +34,8 @@ xbacklight
 # Manage gnome keyring
 # https://wiki.archlinux.org/index.php/GNOME_Keyring
 seahorse
+# Graphics Card information tool:
+inxi
 
 # Java
 ant
