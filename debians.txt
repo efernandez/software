@@ -30,6 +30,7 @@ acpitool
 gpointing-device-settings
 nitrogen
 zsh
+xbacklight
 
 # Java
 ant
