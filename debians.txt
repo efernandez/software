@@ -31,6 +31,9 @@ gpointing-device-settings
 nitrogen
 zsh
 xbacklight
+# Manage gnome keyring
+# https://wiki.archlinux.org/index.php/GNOME_Keyring
+seahorse
 
 # Java
 ant
@@ -73,6 +76,7 @@ network-manager-openvpn
 
 # Skype
 # http://www.skype.com/en/download-skype/skype-for-linux/downloading/?type=ubuntu64
+skype
 
 # Dropbox
 # https://www.dropbox.com/install?os=lnx
