@@ -97,6 +97,7 @@ openscad
 # Coding
 # http://astyle.sourceforge.net
 astyle
+exuberant-ctags
 
 # ROS tools
 python-wstool
