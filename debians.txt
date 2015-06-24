@@ -37,6 +37,7 @@ xbacklight
 seahorse
 # Graphics Card information tool:
 inxi
+xdotool
 
 # Java
 ant
