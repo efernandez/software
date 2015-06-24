@@ -5,6 +5,7 @@ gitk
 # System tools
 awesome
 awesome-extra
+i3-wm
 tmux
 screen
 aptitude
