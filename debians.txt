@@ -38,6 +38,7 @@ seahorse
 # Graphics Card information tool:
 inxi
 xdotool
+unity-tweak-tool
 
 # Java
 ant
