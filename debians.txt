@@ -112,4 +112,6 @@ python-catkin-lint
 # Simulation
 # http://www.blensor.org
 blender
+# http://gazebosim.org/tutorials?tut=gzweb_install&cat=gzweb
+nodejs
 
