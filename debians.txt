@@ -39,6 +39,8 @@ seahorse
 inxi
 xdotool
 unity-tweak-tool
+# Samba utils
+cifs-utils
 
 # Java
 ant
