@@ -12,6 +12,7 @@ aptitude
 vim
 htop
 ack-grep
+pdfgrep
 meld
 xclip
 synapse
