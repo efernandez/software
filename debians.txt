@@ -119,3 +119,6 @@ blender
 # http://gazebosim.org/tutorials?tut=gzweb_install&cat=gzweb
 nodejs
 
+# epub
+calibre
+
