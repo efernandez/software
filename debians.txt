@@ -42,6 +42,8 @@ xdotool
 unity-tweak-tool
 # Samba utils
 cifs-utils
+stress
+cpuburn
 
 # Java
 ant
