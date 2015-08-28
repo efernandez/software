@@ -1,6 +1,7 @@
 # git related
 tig
 gitk
+git-svn
 
 # System tools
 awesome
