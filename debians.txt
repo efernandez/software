@@ -83,6 +83,9 @@ xfce4-power-manager
 openvpn
 network-manager-openvpn
 
+# Network
+bmon
+
 # Chrome
 # http://www.google.com/chrome/
 
