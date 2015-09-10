@@ -12,6 +12,7 @@ screen
 aptitude
 synaptic
 vim
+vim-gtk
 htop
 ack-grep
 pdfgrep
