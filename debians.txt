@@ -48,6 +48,9 @@ cifs-utils
 stress
 cpuburn
 
+# Mail
+mailutils
+
 # Java
 ant
 
