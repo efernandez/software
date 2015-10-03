@@ -47,6 +47,8 @@ unity-tweak-tool
 cifs-utils
 stress
 cpuburn
+# https://github.com/koalaman/shellcheck
+shellcheck
 
 # Mail
 mailutils
