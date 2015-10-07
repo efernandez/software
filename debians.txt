@@ -2,6 +2,7 @@
 tig
 gitk
 git-svn
+gource
 
 # System tools
 awesome
