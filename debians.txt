@@ -49,6 +49,7 @@ stress
 cpuburn
 # https://github.com/koalaman/shellcheck
 shellcheck
+cppcheck
 
 # Mail
 mailutils
