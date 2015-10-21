@@ -51,6 +51,7 @@ cpuburn
 # https://github.com/koalaman/shellcheck
 shellcheck
 cppcheck
+buildbot
 
 # Mail
 mailutils
