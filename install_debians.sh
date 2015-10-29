@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Repository for OpenSCAD:
-sudo add-apt-repository ppa:openscad/releases
+sudo add-apt-repository -y ppa:openscad/releases
 sudo apt-get update
 
 # Install all debians:
