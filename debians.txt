@@ -84,6 +84,7 @@ audacity
 # Python
 ipython
 python-notebook
+pandoc
 
 # Power management
 xfce4-power-manager
