@@ -72,6 +72,7 @@ gtk-recordmydesktop
 imagemagick
 gimp
 libgsf-bin
+mayavi2
 
 # Video
 vlc
