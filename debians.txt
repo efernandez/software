@@ -55,6 +55,8 @@ buildbot
 # perf
 # example usage: http://stackoverflow.com/questions/26863852/why-is-stdpair-faster-than-stdtuple
 linux-tools-common
+linux-tools-generic
+linux-cloud-tools-generic
 
 # Mail
 mailutils
