@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # http://www.ubuntu-guia.com/2010/08/dni-e-electronico-ubuntu-instalar.html
+# http://www.ubuntu-guia.com/2014/04/instalar-dni-electronico-en-ubuntu.html
 
 # Controller (libacr38u only needed by ACR38 based controllers):
 sudo apt-get install libccid pcscd libacr38u
