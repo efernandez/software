@@ -57,6 +57,8 @@ buildbot
 linux-tools-common
 linux-tools-generic
 linux-cloud-tools-generic
+# IRC client (https://irssi.org)
+irssi
 
 # Mail
 mailutils
