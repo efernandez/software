@@ -148,3 +148,5 @@ nodejs
 # epub
 calibre
 
+# LaTeX
+rubber
