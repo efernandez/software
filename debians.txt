@@ -59,6 +59,8 @@ linux-tools-generic
 linux-cloud-tools-generic
 # IRC client (https://irssi.org)
 irssi
+util-linux
+x86info
 
 # Mail
 mailutils
