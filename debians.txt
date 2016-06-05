@@ -32,6 +32,7 @@ tree
 autoconf
 secure-delete
 gnome-applets
+acpi
 acpitool
 gpointing-device-settings
 nitrogen
