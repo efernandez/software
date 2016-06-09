@@ -63,6 +63,10 @@ irssi
 util-linux
 x86info
 
+# Package management
+# https://www.npmjs.com
+npm
+
 # Mail
 mailutils
 
