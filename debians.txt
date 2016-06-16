@@ -132,6 +132,7 @@ nautilus-open-terminal
 # CAD related
 meshlab
 openscad
+openctm-tools
 
 # Coding
 # http://astyle.sourceforge.net
