@@ -79,7 +79,8 @@ gfortran
 # wmname for Matlab in awesome
 suckless-tools
 
-# Screencast
+# Screenshot and Screencast
+shutter
 gtk-recordmydesktop
 
 # Image
