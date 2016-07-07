@@ -134,6 +134,7 @@ nautilus-open-terminal
 meshlab
 openscad
 openctm-tools
+screenruler
 
 # Coding
 # http://astyle.sourceforge.net
