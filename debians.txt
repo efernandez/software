@@ -91,6 +91,7 @@ mayavi2
 
 # Video
 vlc
+coriander
 
 # Audio
 moc
