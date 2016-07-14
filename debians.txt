@@ -62,6 +62,7 @@ linux-cloud-tools-generic
 irssi
 util-linux
 x86info
+gdebi-core
 
 # Package management
 # https://www.npmjs.com
