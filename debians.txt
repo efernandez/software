@@ -10,6 +10,7 @@ awesome-extra
 i3-wm
 tmux
 screen
+ncdu
 aptitude
 synaptic
 vim
