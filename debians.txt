@@ -45,6 +45,7 @@ seahorse
 # Graphics Card information tool:
 inxi
 xdotool
+xdot
 unity-tweak-tool
 # Samba utils
 cifs-utils
