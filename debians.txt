@@ -65,6 +65,8 @@ irssi
 util-linux
 x86info
 gdebi-core
+# GUI Hex Editor
+bless
 
 # Package management
 # https://www.npmjs.com
