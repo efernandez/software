@@ -9,10 +9,12 @@ ack-grep
 acpi
 acpitool
 aptitude
+auto-apt
 autoconf
 awesome
 awesome-extra
 byobu
+checkinstall
 cmake-curses-gui
 dconf
 dconf-tools
