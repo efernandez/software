@@ -16,6 +16,7 @@ awesome-extra
 byobu
 checkinstall
 cmake-curses-gui
+distcc
 dconf
 dconf-tools
 ftjam
