@@ -144,6 +144,7 @@ nautilus-open-terminal
 
 # CAD related
 meshlab
+librecad
 openscad
 openctm-tools
 screenruler
