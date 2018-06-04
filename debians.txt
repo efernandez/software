@@ -17,6 +17,7 @@ byobu
 checkinstall
 cmake-curses-gui
 distcc
+distccmon-gnome
 dconf
 dconf-tools
 ftjam
