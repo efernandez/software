@@ -29,6 +29,8 @@ htop
 i3-wm
 libclang1-3.4
 meld
+# https://mosh.org
+mosh
 ncdu
 nitrogen
 pdfgrep
