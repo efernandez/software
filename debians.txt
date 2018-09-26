@@ -33,6 +33,7 @@ meld
 mosh
 ncdu
 nitrogen
+partclone
 pdfgrep
 screen
 secure-delete
