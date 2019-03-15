@@ -47,6 +47,10 @@ vim-gtk
 xbacklight
 xclip
 zsh
+# Perf
+linux-tools-common
+linux-tools-generic
+linux-cloud-tools-generic
 # Manage gnome keyring
 # https://wiki.archlinux.org/index.php/GNOME_Keyring
 seahorse
