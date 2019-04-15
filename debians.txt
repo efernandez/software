@@ -9,6 +9,7 @@ ack-grep
 acpi
 acpitool
 aptitude
+apt-file
 auto-apt
 autoconf
 awesome
