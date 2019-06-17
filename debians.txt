@@ -17,6 +17,7 @@ awesome-extra
 byobu
 checkinstall
 cmake-curses-gui
+colordiff
 distcc
 distccmon-gnome
 dconf
