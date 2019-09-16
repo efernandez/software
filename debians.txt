@@ -49,6 +49,7 @@ vim-gtk
 xbacklight
 xclip
 zsh
+sshfs
 # Perf
 linux-tools-common
 linux-tools-generic
