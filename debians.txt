@@ -10,6 +10,7 @@ acpi
 acpitool
 aptitude
 apt-file
+aria2
 auto-apt
 autoconf
 awesome
