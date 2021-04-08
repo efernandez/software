@@ -136,6 +136,7 @@ network-manager-openvpn
 
 # Network
 bmon
+iperf3
 
 # Chrome
 # http://www.google.com/chrome/
